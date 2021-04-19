@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rstejer2021
+- 👋 Hi, I’m @rstejer2021, Richard Stejer
 - 👀 I’m interested in learning about Data Science in the Metis course.
 - 🌱 I’m currently learning about analytics and design of infographics.
 - 💞️ I’m looking to collaborate on projects with students.
